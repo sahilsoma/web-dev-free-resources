@@ -1,0 +1,3 @@
+![Sir Tim Berners-Lee](https://upload.wikimedia.org/wikipedia/commons/9/9d/Sir_Tim_Berners-Lee.jpg "Sir Tim Berners Lee - by Paul Clarke, CC BY-SA 4.0 <https://creativecommons.org/licenses/by-sa/4.0>, via Wikimedia Commons")
+![Dennis Ritchie](https://upload.wikimedia.org/wikipedia/commons/2/23/Dennis_Ritchie_2011.jpg "Dennis Ritchie - by Denise Panyik-Dale, CC BY 2.0 <https://creativecommons.org/licenses/by/2.0>, via Wikimedia Commons")
+![Linus torvalds](https://upload.wikimedia.org/wikipedia/commons/c/cc/Linus_Torvalds_flipped.jpg "Linus torvalds - The original uploader was Some Person at English Wikipedia., CC BY-SA 3.0 <http://creativecommons.org/licenses/by-sa/3.0/>, via Wikimedia Commons")
