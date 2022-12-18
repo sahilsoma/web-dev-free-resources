@@ -23,11 +23,28 @@ Front End | Back End | Database | Design & Psychology | Misc
 [HTML Canvas - Deep Dive](https://joshondesign.com/p/books/canvasdeepdive/title.html "HTML Canvas - Deep Dive") | --- | --- | --- | [Encyclopedia of Graphics File Formats](http://netghost.narod.ru/gff/graphics/main.htm "Encyclopedia of Graphics File Formats")
 --- | --- | --- | --- | ---
 
+### Youtube
+Best youtube channels to learn web development for free
+
+1. **[freeCodeCamp](https://www.youtube.com/c/freecodecamp/videos)**
+2. **[Traversy Media](https://www.youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA)**
+3. **[Thenewboston](https://www.youtube.com/user/thenewboston)**
+4. **[Derek Banas](https://www.youtube.com/user/derekbanas)**
+5. **[ProgrammingKnowledge](https://www.youtube.com/channel/UCs6nmQViDpUw0nuIx9c_WvA)**
+6. **[Edureka](https://www.youtube.com/user/edurekaIN)**
+7. **[LearnCode.academy](https://www.youtube.com/user/learncodeacademy/videos)**
+8. **[Programming with Mosh](https://www.youtube.com/user/programmingwithmosh)**
+9. **[Treehouse](https://www.youtube.com/user/gotreehouse)**
+10. **[LearnWebCode](https://www.youtube.com/user/LearnWebCode)**
+
+
 ### Websites
-List of best free websites 
+List of best free websites for learning web development
+
 
 ### Courses
-List of best free courses
+List of 10 best free courses for Web Development
+
 
 ### Books
 List of some Open books for refrence and indepth study
