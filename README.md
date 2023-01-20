@@ -56,7 +56,7 @@ List of some Open books for refrence and indepth study
 6. **[Designing for the Web](https://designingfortheweb.co.uk/)**
 7. **[Exploring ES6](https://exploringjs.com/es6/index.html)**
 8. **[Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/toc.html)**
-
+9. **[Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)**
 
 ### Tools
 Free Services / Browser Extensions / Softwares
