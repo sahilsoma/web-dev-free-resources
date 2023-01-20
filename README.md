@@ -54,6 +54,7 @@ List of some Open books for refrence and indepth study
 4. **[Pro Git](https://git-scm.com/book/en/v2)**
 5. **[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)**
 6. **[Designing for the Web](https://designingfortheweb.co.uk/)**
+7. **[Exploring ES6](https://exploringjs.com/es6/index.html)**
 
 ### Tools
 Free Services / Browser Extensions / Softwares
