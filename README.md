@@ -48,10 +48,11 @@ List of 10 best free courses for Web Development
 
 ### Books
 List of some Open books for refrence and indepth study
-1. **[The Greatest CSS Tricks Vol. I](https://css-tricks.com/books/greatest-css-tricks/)**
-2. **[Pro Git](https://git-scm.com/book/en/v2)**
-3. **[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)**
-4. **[Designing for the Web](https://designingfortheweb.co.uk/)**
+1. **[Eloquent JavaScript](https://eloquentjavascript.net/)**
+2. **[The Greatest CSS Tricks Vol. I](https://css-tricks.com/books/greatest-css-tricks/)**
+3. **[Pro Git](https://git-scm.com/book/en/v2)**
+4. **[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)**
+5. **[Designing for the Web](https://designingfortheweb.co.uk/)**
 
 ### Tools
 Free Services / Browser Extensions / Softwares
