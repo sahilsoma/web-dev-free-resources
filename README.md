@@ -43,8 +43,8 @@ List of best free websites for learning web development
 1. **[HTMLdog](https://www.htmldog.com/)**
 
 ### Courses
-List of 10 best free courses for Web Development
-
+List of best free courses for Web Development
+1. **[Learn CSS](https://web.dev/learn/css/)**
 
 ### Books
 List of some Open books for refrence and indepth study
