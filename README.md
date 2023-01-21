@@ -44,10 +44,11 @@ List of best free websites for learning web development
 
 ### Courses
 List of best free courses for Web Development
-1. **[Learn CSS](https://web.dev/learn/css/)**
-2. **[Learn PWA](https://web.dev/learn/pwa/)**
-3. **[Learn Accessibility](https://web.dev/learn/accessibility/)**
-4. **[Learn Responsive Design](https://web.dev/learn/design/)**
+1. **[html & css is hard](https://www.internetingishard.com/html-and-css/)**
+2. **[Learn CSS](https://web.dev/learn/css/)**
+3. **[Learn PWA](https://web.dev/learn/pwa/)**
+4. **[Learn Accessibility](https://web.dev/learn/accessibility/)**
+5. **[Learn Responsive Design](https://web.dev/learn/design/)**
 
 ### Books
 List of some Open books for refrence and indepth study
