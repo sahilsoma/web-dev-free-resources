@@ -51,6 +51,7 @@ List of best free courses for Web Development
 5. **[Learn Accessibility](https://web.dev/learn/accessibility/)**
 6. **[Learn Responsive Design](https://web.dev/learn/design/)**
 7. **[Marksheet](https://marksheet.io/)**
+8. **[Learn Forms](https://web.dev/learn/forms/)**
 
 ### Books
 List of some Open books for refrence and indepth study
