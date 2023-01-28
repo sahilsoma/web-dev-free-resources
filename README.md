@@ -57,13 +57,14 @@ List of best free courses for Web Development
 List of some Open books for refrence and indepth study
 1. **[Eloquent JavaScript](https://eloquentjavascript.net/)**
 2. **[JavaScript for impatient programmers](https://exploringjs.com/impatient-js/toc.html)**
-3. **[The Greatest CSS Tricks Vol. I](https://css-tricks.com/books/greatest-css-tricks/)**
-4. **[Pro Git](https://git-scm.com/book/en/v2)**
-5. **[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)**
-6. **[Designing for the Web](https://designingfortheweb.co.uk/)**
-7. **[Exploring ES6](https://exploringjs.com/es6/index.html)**
-8. **[Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/toc.html)**
-9. **[Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)**
+3. **[Learning JavaScript Design Patterns](https://www.patterns.dev/posts/classic-design-patterns/)**
+4. **[The Greatest CSS Tricks Vol. I](https://css-tricks.com/books/greatest-css-tricks/)**
+5. **[Pro Git](https://git-scm.com/book/en/v2)**
+6. **[Learn Version Control with Git](https://www.git-tower.com/learn/git/ebook)**
+7. **[Designing for the Web](https://designingfortheweb.co.uk/)**
+8. **[Exploring ES6](https://exploringjs.com/es6/index.html)**
+9. **[Deep JavaScript: Theory and techniques](https://exploringjs.com/deep-js/toc.html)**
+10. **[Learn to Code Advanced HTML & CSS](https://learn.shayhowe.com/advanced-html-css/)**
 
 ### Tools
 Free Services / Browser Extensions / Softwares
