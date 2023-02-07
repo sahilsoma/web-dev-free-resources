@@ -78,3 +78,6 @@ List of Websites with challenge problems for practice and improve your skills
 ### Tools
 Free Services / Browser Extensions / Softwares
 
+### Newsletters
+Some of the best newsletters for developers packed with interesting articles, tutorials and resources
+
