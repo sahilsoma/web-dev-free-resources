@@ -79,5 +79,6 @@ List of Websites with challenge problems for practice and improve your skills
 Free Services / Browser Extensions / Softwares
 
 ### Newsletters
-Some of the best newsletters for developers packed with interesting articles, tutorials and resources
-
+Some of the best newsletters for developers packed with interesting articles, tutorials and resources (in no particular order)
+1. **[Bytes.dev](https://bytes.dev/)**
+2. 
