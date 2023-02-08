@@ -83,3 +83,4 @@ Some of the best newsletters for developers packed with interesting articles, tu
 1. **[Bytes.dev](https://bytes.dev/)**
 2. **[The Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)**
 3. **[Dev Tips](https://umaar.com/dev-tips/)**
+4. **[CSS Weekly](https://css-weekly.com/)**
