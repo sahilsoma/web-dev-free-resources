@@ -84,3 +84,4 @@ Some of the best newsletters for developers packed with interesting articles, tu
 2. **[The Smashing Newsletter](https://www.smashingmagazine.com/the-smashing-newsletter/)**
 3. **[Dev Tips](https://umaar.com/dev-tips/)**
 4. **[CSS Weekly](https://css-weekly.com/)**
+5. **[SitePoint Newsletter](https://www.sitepoint.com/newsletters/)**
