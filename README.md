@@ -56,6 +56,7 @@ List of best free courses for Web Development
 8. **[Marksheet](https://marksheet.io/)**
 9. **[Learn Forms](https://web.dev/learn/forms/)**
 10. **[Learn CSS Grid](https://cssgrid.io/)**
+11. **[Learn FlexBox](https://flexbox.io/)**
 
 ### Books
 List of some Open books for refrence and indepth study
