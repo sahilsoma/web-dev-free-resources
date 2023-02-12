@@ -46,14 +46,15 @@ List of best free websites for learning web development
 
 ### Courses
 List of best free courses for Web Development
-1. **[html & css is hard](https://www.internetingishard.com/html-and-css/)**
-2. **[LEARN TO CODE AWESOME WEBSITES IN HTML, CSS, AND JAVASCRIPT](https://dash.generalassemb.ly/)**
-3. **[Learn CSS](https://web.dev/learn/css/)**
-4. **[Learn PWA](https://web.dev/learn/pwa/)**
-5. **[Learn Accessibility](https://web.dev/learn/accessibility/)**
-6. **[Learn Responsive Design](https://web.dev/learn/design/)**
-7. **[Marksheet](https://marksheet.io/)**
-8. **[Learn Forms](https://web.dev/learn/forms/)**
+1. **[Web Development for Beginners](https://learn.microsoft.com/en-us/training/paths/web-development-101/)**
+2. **[HTML & CSS is Hard](https://www.internetingishard.com/html-and-css/)**
+3. **[LEARN TO CODE AWESOME WEBSITES IN HTML, CSS, AND JAVASCRIPT](https://dash.generalassemb.ly/)**
+4. **[Learn CSS](https://web.dev/learn/css/)**
+5. **[Learn PWA](https://web.dev/learn/pwa/)**
+6. **[Learn Accessibility](https://web.dev/learn/accessibility/)**
+7. **[Learn Responsive Design](https://web.dev/learn/design/)**
+8. **[Marksheet](https://marksheet.io/)**
+9. **[Learn Forms](https://web.dev/learn/forms/)**
 
 ### Books
 List of some Open books for refrence and indepth study
