@@ -1,5 +1,5 @@
 # web-dev-free-resources
-A repo to list the best free resources I like to use or recommend. I am going to keep the list as short as possible so new players don't get confused or distracted by lots of options.
+A repo to list the best free resources for web development learning. I am going to keep the list as short as possible so new players don't get confused or distracted by lots of options.
 
 Pro Tip: when you start using a resource, try to stick with it for some time.
 
