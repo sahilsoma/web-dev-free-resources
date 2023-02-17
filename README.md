@@ -86,6 +86,9 @@ Best free tools to help in website development
 ### Services
 Free services that can boost development process
 
+### Browser Extensions
+Free browser extensions to get help in development
+
 ### Newsletters
 Some of the best newsletters for developers packed with interesting articles, tutorials and resources (in no particular order)
 1. **[Bytes.dev](https://bytes.dev/)**
