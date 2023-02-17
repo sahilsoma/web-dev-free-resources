@@ -81,7 +81,7 @@ List of Websites with challenge problems for practice and improve your skills
 5. **[CodeChef](https://www.codechef.com/)**
 
 ### Tools
-Free Services / Browser Extensions / Softwares
+Best free tools to help in website development
 
 ### Newsletters
 Some of the best newsletters for developers packed with interesting articles, tutorials and resources (in no particular order)
