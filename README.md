@@ -89,6 +89,9 @@ Free services that can boost development process
 ### Browser Extensions
 Free browser extensions to get help in development
 
+### Softwares
+Free softwares for website development related tasks
+
 ### Newsletters
 Some of the best newsletters for developers packed with interesting articles, tutorials and resources (in no particular order)
 1. **[Bytes.dev](https://bytes.dev/)**
