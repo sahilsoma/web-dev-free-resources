@@ -40,9 +40,10 @@ Best youtube channels to learn web development for free
 
 ### Websites
 List of best free websites for learning web development
-1. **[SoloLearn](https://www.sololearn.com/)**
-2. **[HTMLdog](https://www.htmldog.com/)**
-3. **[CSS-Tricks](https://css-tricks.com/)**
+1. **[Exercism](https://exercism.org/)**
+2. **[SoloLearn](https://www.sololearn.com/)**
+3. **[HTMLdog](https://www.htmldog.com/)**
+4. **[CSS-Tricks](https://css-tricks.com/)**
 
 ### Courses
 List of best free courses for Web Development
