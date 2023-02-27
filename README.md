@@ -91,6 +91,7 @@ Free services that can boost development process
 
 ### Browser Extensions
 Free browser extensions to get help in development
+1. **[WhatFont](https://chrome.google.com/webstore/detail/whatfont/jabopobgcpjmedljpbcaablpmlmfcogm "Browser extension to check the font used by any website")**
 
 ### Softwares
 Free softwares for website development related tasks
