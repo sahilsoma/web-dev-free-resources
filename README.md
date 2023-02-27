@@ -107,3 +107,6 @@ Some of the best newsletters for developers packed with interesting articles, tu
 3. **[Dev Tips](https://umaar.com/dev-tips/)**
 4. **[CSS Weekly](https://css-weekly.com/)**
 5. **[SitePoint Newsletter](https://www.sitepoint.com/newsletters/)**
+
+### Contributions
+Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated.
