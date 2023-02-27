@@ -95,7 +95,8 @@ Free browser extensions to get help in development
 2. **[ColorPick Eyedropper](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg "Browser extension to pick the colours from any webpage or web images")**
 3. **[Wappalyzer - Technology profiler](https://chrome.google.com/webstore/detail/wappalyzer-technology-pro/gppongmhjkpfnbhagpmjfkannfbllamg "Browser extension to check the technology stack behind a website")**
 4. **[Web Developer Checklist](https://chrome.google.com/webstore/detail/web-developer-checklist/iahamcpedabephpcgkeikbclmaljebjp?hl=en "Browser extension to keep check on all the technical requirements for a efficient website development")**
-5. **[Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko "Browser extension to keep your browser history safe and searchable. [For Chrome and related browsers")**
+5. **[Session Buddy](https://chrome.google.com/webstore/detail/session-buddy/edacconmaakjimmfgnblocblbcdcpbko "Browser extension to keep your browser history safe and searchable. [For Chrome and related browsers]")**
+6. **[Web Developer](https://chrome.google.com/webstore/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm "Browser extension with a bunch of useful tools, a kind of toolkit for the devs")**
 
 ### Softwares
 Free softwares for website development related tasks
