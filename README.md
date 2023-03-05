@@ -113,5 +113,8 @@ Some of the best newsletters for developers packed with interesting articles, tu
 4. **[CSS Weekly](https://css-weekly.com/)**
 5. **[SitePoint Newsletter](https://www.sitepoint.com/newsletters/)**
 
+### Blogs
+Some of the best blogs to learn web development related topics
+
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
