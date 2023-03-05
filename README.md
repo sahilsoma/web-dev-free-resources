@@ -100,6 +100,7 @@ Free browser extensions to get help in development
 7. **[CSSViewer](https://chrome.google.com/webstore/detail/cssviewer/ggfgijbpiheegefliciemofobhmofgce "Browser extension to check stylesheets of web pages on the go")**
 8. **[EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg "EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!")**
 9. **[Screen Capture](https://chrome.google.com/webstore/detail/screen-capture-screenshot/pmnphobdokkajkpbkajlaiooipfcpgio "Screen capture, full page screen shot, visible area screenshot, edit print screen, save snapshot in PNG, PDF.")**
+10. **[Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/ "Resize the browser window to emulate various screen resolutions.")**
 
 ### Softwares
 Free softwares for website development related tasks
