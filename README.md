@@ -113,4 +113,4 @@ Some of the best newsletters for developers packed with interesting articles, tu
 5. **[SitePoint Newsletter](https://www.sitepoint.com/newsletters/)**
 
 ### Contributions
-Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated.
+Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
