@@ -101,6 +101,7 @@ Free browser extensions to get help in development
 8. **[EditThisCookie](https://chrome.google.com/webstore/detail/editthiscookie/fngmhnnpilhplaeedifhccceomclgfbg "EditThisCookie is a cookie manager. You can add, delete, edit, search, protect and block cookies!")**
 9. **[Screen Capture](https://chrome.google.com/webstore/detail/screen-capture-screenshot/pmnphobdokkajkpbkajlaiooipfcpgio "Screen capture, full page screen shot, visible area screenshot, edit print screen, save snapshot in PNG, PDF.")**
 10. **[Window Resizer](https://chrome.google.com/webstore/detail/window-resizer/kkelicaakdanhinjdeammmilcgefonfh/ "Resize the browser window to emulate various screen resolutions.")**
+11. **[Corporate Ipsum](https://chrome.google.com/webstore/detail/corporate-ipsum/lfmadckmfehehmdnmhaebniooenedcbb "A lorem ipsum generator with a corporate bent. Generates filler content by the word or paragraph.")**
 
 ### Softwares
 Free softwares for website development related tasks
