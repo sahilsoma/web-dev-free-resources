@@ -104,6 +104,7 @@ Free browser extensions to get help in development
 11. **[Corporate Ipsum](https://chrome.google.com/webstore/detail/corporate-ipsum/lfmadckmfehehmdnmhaebniooenedcbb "A lorem ipsum generator with a corporate bent. Generates filler content by the word or paragraph.")**
 12. **[Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps.")**
 13. **[Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff "Page Ruler is an extension that lets you measure distances (in pixels) on a webpage. ")**
+14. **[Magic CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol "Live preview of CSS/Less/Sass code changes. Auto-save file, autocomplete, Less/Sass to CSS, beautify, CSS reloader, lint, ...")**
 
 ### Softwares
 Free softwares for website development related tasks
