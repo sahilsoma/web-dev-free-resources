@@ -83,11 +83,11 @@ List of Websites with challenge problems for practice and improve your skills
 7. **[CodeWars](https://www.codewars.com/)**
 
 ### Tools
-Best free tools to help in website development
+Best free tools to help in website development and boost workflow
 1. **[Caniuse](https://caniuse.com/ "A web tool to check which website feature is supported by which browser")**
 
 ### Services
-Free services that can boost development process
+Free services that can boost development process and workflow
 
 ### Browser Extensions
 Free browser extensions to get help in development
