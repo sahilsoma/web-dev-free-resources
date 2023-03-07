@@ -119,6 +119,7 @@ Some of the best newsletters for developers packed with interesting articles, tu
 
 ### Blogs
 Some of the best blogs to learn web development related topics
+1. **[Codrops](https://tympanus.net/codrops/ "Live preview of CSS/Less/Sass code changes. Auto-save file, autocomplete, Less/Sass to CSS, beautify, CSS reloader, lint, ...")**
 
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
