@@ -126,5 +126,8 @@ Some of the best blogs to learn web development related topics
 5. **[Web Design Ledger](https://webdesignledger.com/ "Web Design Ledger offers special insights on how to produce amazing web solutions for web developers and designers.")**
 6. **[Webdesigner Depot](https://www.webdesignerdepot.com/ "Webdesigner Depot offers free tools and materials to assist you in the development of your website. Even if you're brand new to the sector, you'll be able to learn more about what it takes to build a website.")**
 
+### Free Resources
+Some free resources for web development 
+
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
