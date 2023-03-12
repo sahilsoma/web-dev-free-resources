@@ -121,6 +121,7 @@ Some of the best newsletters for developers packed with interesting articles, tu
 Some of the best blogs to learn web development related topics
 1. **[Codrops](https://tympanus.net/codrops/ "Codrops is a terrific resource for front end developers, that includes articles with good information, tutorials that are helpful, and free tools that we all adore.")**
 2. **[CSS Author](https://cssauthor.com/ "Web developers and web designers may both benefit greatly from CSS Author's front end coding blog, which also features sporadic releases that are helpful to visual designers and content creators. It offers an unbelievable number of 'freebies'")**
+3. **[David Walsh Blog](https://davidwalsh.name/ "David contributes his knowledge as a Senior Software Engineer and Evangelist for Mozilla, as well as the creator of the Wyn Weng Labs and Script &Style web development podcasts. You'll receive technical advice and information on industry developments for web developers.'")**
 
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
