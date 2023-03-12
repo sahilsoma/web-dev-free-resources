@@ -128,6 +128,7 @@ Some of the best blogs to learn web development related topics
 
 ### Free Resources
 Some free resources for web development 
+1. **[Super Dev Resources](https://superdevresources.com/)**
 
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
