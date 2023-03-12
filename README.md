@@ -124,6 +124,7 @@ Some of the best blogs to learn web development related topics
 3. **[David Walsh Blog](https://davidwalsh.name/ "David contributes his knowledge as a Senior Software Engineer and Evangelist for Mozilla, as well as the creator of the Wyn Weng Labs and Script &Style web development podcasts. You'll receive technical advice and information on industry developments for web developers.")**
 4. **[Creative Bloq](https://www.creativebloq.com/web-designer-magazine "For the imaginative coder, here's one. Creative Bloq is for you if you're looking for creative inspiration for your coding process or if you are interested in seeing how elements like grid systems and animations appear in real-world web design.")**
 5. **[Web Design Ledger](https://webdesignledger.com/ "Web Design Ledger offers special insights on how to produce amazing web solutions for web developers and designers.")**
+6. **[Webdesigner Depot](https://www.webdesignerdepot.com/ "Webdesigner Depot offers free tools and materials to assist you in the development of your website. Even if you're brand new to the sector, you'll be able to learn more about what it takes to build a website.")**
 
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
