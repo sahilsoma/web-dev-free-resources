@@ -85,6 +85,7 @@ List of Websites with challenge problems for practice and improve your skills
 ### Tools
 Best free tools to help in website development and boost workflow
 1. **[Caniuse](https://caniuse.com/ "A web tool to check which website feature is supported by which browser")**
+2. **[Squoosh](https://squoosh.app/ "Compressing your photographs will result in nearly little quality loss, and you may change their size.")**
 
 ### Services
 Free services that can boost development process and workflow
