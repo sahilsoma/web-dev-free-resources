@@ -91,6 +91,7 @@ Best free tools to help in website development and boost workflow
 ### Services
 Free services that can boost development process and workflow
 1. **[Supabase](https://supabase.com/ "In less than 2 minutes, you can build a backend using Supabase. Begin your project with a Postgres database, authentication, real-time APIs, and storage. Free tier is enough for testing sites live and get user feedback.")**
+2. **[Auth0](https://auth0.com/ "The Auth0 identity platform makes it simple to manage your users in a safe and simplified manner. Free tier is enough for upto 7000 users, good for test deployments.")**
 
 ### Browser Extensions
 Free browser extensions to get help in development
