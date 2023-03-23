@@ -134,6 +134,7 @@ Some of the best blogs to learn web development related topics
 Some free resources for web development 
 1. **[Super Dev Resources](https://superdevresources.com/)**
 2. **[Undraw](https://undraw.co/)**
+3. **[Error404](https://error404.fun/)**
 
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
