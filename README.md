@@ -94,7 +94,7 @@ Free services that can boost development process and workflow
 2. **[Auth0](https://auth0.com/ "The Auth0 identity platform makes it simple to manage your users in a safe and simplified manner. Free tier is enough for upto 7000 users, good for test deployments.")**
 3. **[Animista](https://animista.net/ "On Demand CSS Animation Library")**
 4. **[Shapedivider](https://www.shapedivider.app/ "Create custom shape dividers for creating nice sections in a web page")**
-4. **[Undraw](https://undraw.co/ "Opensource beautiful illustrations for creating better designed websites, applications or products")**
+5. **[Squoosh](https://squoosh.app/ "Free service to compress and optimize images for the web")**
 
 ### Browser Extensions
 Free browser extensions to get help in development
