@@ -88,6 +88,7 @@ Best free tools to help in website development and boost workflow
 2. **[Squoosh](https://squoosh.app/ "Compressing your photographs will result in nearly little quality loss, and you may change their size.")**
 3. **[Dev Docs](https://devdocs.io/ "Developer documentation browser that is fast, offline, and free. Search 100s of documents in one web app, including HTML and CSS...")**
 4. **[Omatsuri](https://omatsuri.app/ "An Open Source Web App that includes 12 fantastic frontend utilities for everyday usage.")**
+5. **[Csslayout](https://csslayout.io/ "It is a collection of hundreds of CSS based components that you may copy-paste into your project and tweak to your specifications!")**
 
 ### Services
 Free services that can boost development process and workflow
