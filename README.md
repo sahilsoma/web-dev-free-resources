@@ -90,7 +90,8 @@ Best free tools to help in website development and boost workflow
 4. **[Omatsuri](https://omatsuri.app/ "An Open Source Web App that includes 12 fantastic frontend utilities for everyday usage.")**
 5. **[Csslayout](https://csslayout.io/ "It is a collection of hundreds of CSS based components that you may copy-paste into your project and tweak to your specifications!")**
 6. **[Keyframes App](https://keyframes.app/ "more tools for devs - Browser-based, mobile-friendly, actually private tools that make CSS a little less bad.")**
-7. **[coolors.co](https://coolors.co/ "Coolors allows you to create a colour palette on the move or be inspired by gorgeous colour schemes.")**
+7. **[Coolors.co](https://coolors.co/ "Coolors allows you to create a colour palette on the move or be inspired by gorgeous colour schemes.")**
+8. **[0to255](https://0to255.com/ "0to255 is a colour palette that allows you to easily obtain brighter and darker hues, commonly known as tints and shades, depending on any colour. This makes it ideal for button hover states, gradients, borders, and other applications.")**
 
 ### Services
 Free services that can boost development process and workflow
