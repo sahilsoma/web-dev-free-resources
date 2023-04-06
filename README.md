@@ -93,6 +93,7 @@ Best free tools to help in website development and boost workflow
 7. **[Coolors.co](https://coolors.co/ "Coolors allows you to create a colour palette on the move or be inspired by gorgeous colour schemes.")**
 8. **[0to255](https://0to255.com/ "0to255 is a colour palette that allows you to easily obtain brighter and darker hues, commonly known as tints and shades, depending on any colour. This makes it ideal for button hover states, gradients, borders, and other applications.")**
 9. **[Browser Shots](https://browsershots.org/ "Because it is impractical to download every available browser, Browser Shots can assist you in testing the website's browser compatibility.  This open-source application allows web designers to compare how a page will look in different browsers.")**
+10. **[Uptime Robot](https://uptimerobot.com/ "Uptime Robot sends a ping to your sites every five minutes or so, and if the site does not respond, the programme will send you an e-mail informing you that your sites are down. Simple and effective solution to tackle downtimes")**
 
 ### Services
 Free services that can boost development process and workflow
