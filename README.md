@@ -154,6 +154,7 @@ Some free resources for web development
 
 ### Misc Resources / Tools / Services / Etc
 1. **[Web Hosting Secret Revealed](https://www.webhostingsecretrevealed.net/ "Reveal web infrastructure and technology information behind any website.")**
+2. **[Webpage Test](https://www.webpagetest.org/ "Use WebPageTest to confirm that your web page is performing optimally. Your findings will include a web hosting performance evaluation, resource loading waterfall charts, and suggestions for improvement.")**
 
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
