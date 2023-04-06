@@ -152,5 +152,8 @@ Some free resources for web development
 5. **[Carbon](https://carbon.now.sh/)**
 5. **[Roadmaps](https://roadmap.sh/)**
 
+### Misc Resources / Tools / Services / Etc
+1. **[Web Hosting Secret Revealed](https://www.webhostingsecretrevealed.net/ "Reveal web infrastructure and technology information behind any website.")**
+
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
