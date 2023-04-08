@@ -157,7 +157,8 @@ Some free resources for web development
 2. **[Webpage Test](https://www.webpagetest.org/ "Use WebPageTest to confirm that your web page is performing optimally. Your findings will include a web hosting performance evaluation, resource loading waterfall charts, and suggestions for improvement.")**
 3. **[Html Purifier](http://htmlpurifier.org/ "Want to make your website comply with international HTML standards? This website can assist you with that procedure.")**
 4. **[HTML-Ipsum](https://www.webfx.com/web-design/html-ipsum/ "HTML-ipsum.com assists web designers in the creation of a brief piece of code for usage in CSS designs. The designer may preview how the completed design will look after text is included by incorporating these example words.")**
-5. **[Privacy Policy Generator](https://www.privacypolicygenerator.info/)**
+5. **[Privacy Policy Generator](https://www.privacypolicygenerator.info/ "There is no need to spend hours developing a privacy policy. Create a privacy policy in no time with this free tool.")**
+
 
 ### Contributions
 Contributions are what make the open source community such a wonderful place to learn, be inspired, and create. Your contributions are much appreciated. To contribute, create a issue or pull request. Thanks
