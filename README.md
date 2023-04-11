@@ -158,6 +158,7 @@ Some free resources for web development
 3. **[Html Purifier](http://htmlpurifier.org/ "Want to make your website comply with international HTML standards? This website can assist you with that procedure.")**
 4. **[HTML-Ipsum](https://www.webfx.com/web-design/html-ipsum/ "HTML-ipsum.com assists web designers in the creation of a brief piece of code for usage in CSS designs. The designer may preview how the completed design will look after text is included by incorporating these example words.")**
 5. **[Privacy Policy Generator](https://www.privacypolicygenerator.info/ "There is no need to spend hours developing a privacy policy. Create a privacy policy in no time with this free tool.")**
+6. **[Layerstyles](http://www.layerstyles.org/ "Layerstyles is an online graphics editor that will generate CSS code.")**
 
 
 ### Contributions
