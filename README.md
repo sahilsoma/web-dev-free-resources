@@ -162,6 +162,7 @@ Some free resources for web development
 5. **[Privacy Policy Generator](https://www.privacypolicygenerator.info/ "There is no need to spend hours developing a privacy policy. Create a privacy policy in no time with this free tool.")**
 6. **[Layerstyles](http://www.layerstyles.org/ "Layerstyles is an online graphics editor that will generate CSS code.")**
 7. **[Spritecow](http://www.spritecow.com/ "Spritecow will make it easier for you to employ CSS spirits.")**
+8. **[Bitcatcha](https://www.bitcatcha.com/ "Bitcatcha offers free website response speed testing from 10 locations around the world.")**
 
 
 ### Contributions
