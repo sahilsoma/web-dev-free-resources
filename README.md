@@ -125,6 +125,7 @@ Free browser extensions to get help in development
 Free softwares for website development related tasks
 1. **[Filezilla](https://filezilla-project.org/ "FileZilla is a free FTP client that allows you to send files to your web server over TLC and SFTP. When you have a lot of huge files to transmit, it makes things easier.")**
 2. **[GIMP](https://www.gimp.org/ "GIMP is an excellent free image manipulation tool. GIMP is available for free download and usage. It's an affordable substitute to graphic design software, which may cost hundreds of dollars.")**
+3. **[Vectr](https://vectr.com/ "Free Vector Graphics Editor")**
 
 ### Newsletters
 Some of the best newsletters for developers packed with interesting articles, tutorials and resources (in no particular order)
