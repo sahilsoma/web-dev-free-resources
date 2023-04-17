@@ -101,6 +101,7 @@ Free services that can boost development process and workflow
 2. **[Auth0](https://auth0.com/ "The Auth0 identity platform makes it simple to manage your users in a safe and simplified manner. Free tier is enough for upto 7000 users, good for test deployments.")**
 3. **[Animista](https://animista.net/ "On Demand CSS Animation Library")**
 4. **[Shapedivider](https://www.shapedivider.app/ "Create custom shape dividers for creating nice sections in a web page")**
+5. **[Google Web Designer](https://webdesigner.withgoogle.com/ "free solution that can assist you in the creation of interactive ads, design blocks, and animations")**
 
 
 ### Browser Extensions
