@@ -120,6 +120,7 @@ Free browser extensions to get help in development
 12. **[Lighthouse](https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk "Lighthouse is an open-source, automated tool for improving the performance, quality, and correctness of your web apps.")**
 13. **[Page Ruler](https://chrome.google.com/webstore/detail/page-ruler/jcbmcnpepaddcedmjdcmhbekjhbfnlff "Page Ruler is an extension that lets you measure distances (in pixels) on a webpage. ")**
 14. **[Magic CSS](https://chrome.google.com/webstore/detail/live-editor-for-css-less/ifhikkcafabcgolfjegfcgloomalapol "Live preview of CSS/Less/Sass code changes. Auto-save file, autocomplete, Less/Sass to CSS, beautify, CSS reloader, lint, ...")**
+15. **[CSS3 Generator](https://chrome.google.com/webstore/detail/css3-generator/dmlgmehijaodgkkooghkknjjkddahmej?hl=en-GB "CSS3 Generator is a useful addon that will generate the CSS code you require. It now creates (largely) cross-browser code for the different CSS3 properties.")**
 
 ### Softwares
 Free softwares for website development related tasks
