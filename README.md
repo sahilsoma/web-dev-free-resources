@@ -3,6 +3,8 @@ A repo to list the best free resources for web development learning. I am going 
 
 Pro Tip: when you start using a resource, try to stick with it for some time.
 
+Please read **[contributing guidelines](https://github.com/sahilsoma/web-dev-free-resources/blob/main/contributing.md)** before submitting new resources.
+
 ## Learn Web development for free
 List of best free resources for learning web development
 ---
